@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17">
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/Pytorch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kingdomye/QG_AI.git&quot;,
+    &quot;accountId&quot;: &quot;897262ca-337f-4934-a535-47114b9db71d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rk3evMi6MXq83YwYY1yERheRQI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/chenyingrui/Desktop/Code Learn/qg_ai/QG_AI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="" />
+      <created>1732502620228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732502620228</updated>
+      <workItem from="1732502622719" duration="36000" />
+      <workItem from="1737089346612" duration="313000" />
+      <workItem from="1737089675390" duration="614000" />
+      <workItem from="1737090359301" duration="279000" />
+      <workItem from="1737090890200" duration="128000" />
+      <workItem from="1737091244841" duration="301000" />
+      <workItem from="1737091549729" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="2025/1/17">
+      <option name="closed" value="true" />
+      <created>1737090947707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737090947707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2025/1/17">
+      <option name="closed" value="true" />
+      <created>1737091276607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737091276607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2025/1/17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025/1/17" />
+  </component>
+</project>

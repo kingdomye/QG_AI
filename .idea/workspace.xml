@@ -87,7 +87,7 @@
       <workItem from="1737091244841" duration="301000" />
       <workItem from="1737091549729" duration="4000" />
       <workItem from="1737092343758" duration="143000" />
-      <workItem from="1737092881296" duration="1542000" />
+      <workItem from="1737092881296" duration="2469000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />
@@ -116,6 +116,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2025/1/17" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="数字类型 覆盖结果" MODIFIED="1737093867918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
+    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="数字类型 覆盖结果" MODIFIED="1737095282045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
   </component>
 </project>

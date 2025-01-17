@@ -14,6 +14,14 @@ def int_number_example():
     print("remainder", number2 % number1)
     # print("exponent", number1 ** number2) 太慢了注释掉😅
 
+    # 2、8、16进制
+    bin_number = 0b1110
+    oct_number = 0o75
+    hex_number = 0xF5
+    print("Binary output", bin_number)
+    print("Octal output", oct_number)
+    print("Hex output", hex_number)
+
     return
 
 

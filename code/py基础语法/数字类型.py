@@ -48,5 +48,18 @@ def bool_example():
     print("not", not bool_true)
 
 
+def complex_example():
+    complex_number1 = 1 + 2j
+    complex_number2 = 3 + 4j
+
+    print("real", complex_number1.real, complex_number2.real)
+    print("imag", complex_number1.imag, complex_number2.imag)
+
+    print("addition", complex_number1 + complex_number2)
+    print("subtraction", complex_number1 - complex_number2)
+    print("multiplication", complex_number1 * complex_number2)
+    print("division", complex_number2 / complex_number1)
+
+
 if __name__ == '__main__':
-    bool_example()
+    complex_example()

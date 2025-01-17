@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17">
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/Pytorch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pytorch/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,14 +49,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/chenyingrui/Desktop/Code Learn/qg_ai/QG_AI",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -92,6 +83,7 @@
       <workItem from="1737090890200" duration="128000" />
       <workItem from="1737091244841" duration="301000" />
       <workItem from="1737091549729" duration="4000" />
+      <workItem from="1737092343758" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />

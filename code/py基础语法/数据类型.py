@@ -1,5 +1,10 @@
 def string_example():
-    pass
+    string1 = 'hello QG!'
+    string2 = "this is an example"
+
+    print("access string", string1[2])
+    print("string slice", string1[2:5])
+    print("string splicing", string1 + string2)
 
 
 def list_example():

@@ -28,6 +28,17 @@ class Student(Person):
         print(self.name, self.age, self.grade)
 
 
+# 多态
+class StudentA(Person):
+    def getName(self):
+        print("I'm StudentA")
+
+
+class StudentB(Person):
+    def getName(self):
+        print("I'm StudentB")
+
+
 if __name__ == '__main__':
     teacher_yi = Student('翼老师', 100)
     teacher_yi.info()

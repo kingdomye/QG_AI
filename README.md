@@ -10,3 +10,6 @@
 - [x] 错误和异常捕获
 - [x] map、lambda、filter函数学习
 - [x] python面向对象
+- [ ] 线性代数基础与numpy
+- [x] python数据结构
+- [x] c++数据结构

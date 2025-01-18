@@ -23,7 +23,7 @@ def list_example():
     list1 = [1, 2, 3, 4, 5]
     list2 = ['a', 'b', 'c', 'd']
 
-    print("访问列表", list1[2], list2[2: 5], list1[-1])
+    print("访问列表", list1[2], list2[2:5], list1[-1])
     print("列表相加", list1 + list2)
     print("列表函数", len(list1), max(list1), min(list1))
 
@@ -42,19 +42,53 @@ def list_example():
     print("反转列表", list1)
     list1.sort()
     print("排序", list1)
+    # ... ...
 
 
 def dict_example():
-    pass
+    dict1 = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+
+    print("访问字典", dict1['b'])
+    dict1['a'] = '999'
+    print("修改字典", dict1)
+    dict1['e'] = '000'
+    print("添加元素", dict1)
+
+    # 字典函数
+    print("长度", len(dict1))
+    print("字符串", str(dict1))
+
+    # 字典方法
+    # dict1.clear() 这个就不运行了😅
+    items = dict1.items()
+    print("获取键值对", items)
+    keys = dict1.keys()
+    print("keys", keys)
+    values = dict1.values()
+    print("values", values)
+    # ... ...
 
 
 def tuple_example():
-    pass
+    tuple1 = (1, 2, 3, 4, 5)
+    tuple2 = ('a', 'b', 'c', 'd')
+
+    print("访问元组", tuple1[2], tuple2[2])
+    print("元组拼接", tuple1 + tuple2)
+    print("length", len(tuple1))
+    print("slicing", tuple1[2:5])
+    print("max", max(tuple1))
+    print("min", min(tuple1))
 
 
 def set_example():
-    pass
+    set1 = {1, 2, 3, 4}
+    set2 = set('asdsadbdsasdsd')
+    print("output", set1, set2)
+    set1.add(5)
+    print("add value", set1)
+    print("length", len(set1))
 
 
 if __name__ == '__main__':
-    list_example()
+    set_example()

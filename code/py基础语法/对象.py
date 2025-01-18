@@ -18,6 +18,16 @@ class Person:
         self.__selfFunc()
 
 
+# 子类Student
+class Student(Person):
+    def __init__(self, name, age):
+        super().__init__(name, age)
+        self.grade = 'A+'
+
+    def info(self):
+        print(self.name, self.age, self.grade)
+
+
 if __name__ == '__main__':
-    teacher_yi = Person('翼老师', 100)
-    teacher_yi.useSelfFunc()
+    teacher_yi = Student('翼老师', 100)
+    teacher_yi.info()

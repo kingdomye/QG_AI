@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/py基础语法/对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/py基础语法/对象.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +96,7 @@
       <workItem from="1737091549729" duration="4000" />
       <workItem from="1737092343758" duration="143000" />
       <workItem from="1737092881296" duration="4610000" />
-      <workItem from="1737167690446" duration="7941000" />
+      <workItem from="1737167690446" duration="8267000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />
@@ -127,6 +126,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QG_AI$maplambdafilter.coverage" NAME="map、lambda、filter函数 覆盖结果" MODIFIED="1737174730104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
-    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="对象 覆盖结果" MODIFIED="1737175955296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
+    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="对象 覆盖结果" MODIFIED="1737176232492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
   </component>
 </project>

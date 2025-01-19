@@ -100,7 +100,7 @@
       <workItem from="1737167690446" duration="8668000" />
       <workItem from="1737176841791" duration="391000" />
       <workItem from="1737177259602" duration="8000" />
-      <workItem from="1737266101741" duration="409000" />
+      <workItem from="1737266101741" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />
@@ -130,6 +130,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QG_AI$maplambdafilter.coverage" NAME="map、lambda、filter函数 覆盖结果" MODIFIED="1737174730104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
-    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="对象 覆盖结果" MODIFIED="1737176232492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
+    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="一维数组（向量） 覆盖结果" MODIFIED="1737266504076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/numpy代码示例" />
   </component>
 </project>

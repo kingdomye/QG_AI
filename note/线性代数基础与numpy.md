@@ -31,8 +31,8 @@ vector2 = np.array([255, 255, 255], dtype=np.uint32)
 ```python
 a = np.array([1, 2, 3])
 b = np.array([4, 5, 6])
-c = a + b								# 向量加法（减法类似）[5 7 9]
-c = np.dot(a, b)				# 向量的内积32
+c = a + b  # 向量加法（减法类似）[5 7 9]
+c = np.dot(a, b)  # 向量的内积32
 ```
 
 

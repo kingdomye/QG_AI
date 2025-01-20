@@ -88,7 +88,7 @@ print(matrixA + matrixB)
 
 首先学习矩阵乘法的定义：
 ```math
-设矩阵  A=\left(a_{i j}\right)_{m \times n}  和  B=\left(b_{i j}\right)_{n \times s}  ，\令  C=\left(c_{i j}\right)_{m \times s}  。其中  c_{i j}=\sum_{k=1}^{n} a_{i k} b_{k j}(1 \leq i \leq m, 1 \leq j \leq s)  ，\\那么矩阵 C 称为矩阵 A 与 B 的乘积，记为  \mathrm{C}=\mathrm{AB}  或  \mathrm{C}=\mathrm{A} \cdot \mathrm{B}  。
+设矩阵  A=\left(a_{i j}\right)_{m \times n}  和  B=\left(b_{i j}\right)_{n \times s}  ，\\令  C=\left(c_{i j}\right)_{m \times s}  。其中  c_{i j}=\sum_{k=1}^{n} a_{i k} b_{k j}(1 \leq i \leq m, 1 \leq j \leq s)  ，\\那么矩阵 C 称为矩阵 A 与 B 的乘积，记为  \mathrm{C}=\mathrm{AB}  或  \mathrm{C}=\mathrm{A} \cdot \mathrm{B}  。
 ```
 
 

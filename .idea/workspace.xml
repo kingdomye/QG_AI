@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/numpy代码示例/一维数组（向量）.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/numpy代码示例/向量与矩阵.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/线性代数基础与numpy.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/线性代数基础与numpy.md" afterDir="false" />
-    </list>
+    <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +99,7 @@
       <workItem from="1737167690446" duration="8668000" />
       <workItem from="1737176841791" duration="391000" />
       <workItem from="1737177259602" duration="8000" />
-      <workItem from="1737266101741" duration="3318000" />
+      <workItem from="1737266101741" duration="3934000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />

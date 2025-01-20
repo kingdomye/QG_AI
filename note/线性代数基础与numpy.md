@@ -93,6 +93,21 @@ print(matrixA + matrixB)
 
 关于矩阵乘法更详尽的描述，可以参考本人知乎文章：https://zhuanlan.zhihu.com/p/681878488
 
+借助numpy库，可以很轻松的实现矩阵乘法，例如：
+
+```python
+matrixA = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+matrixB = np.array([[2, 4, 6], [8, 10, 12], [14, 16, 18]])
+print(np.dot(matrixA, matrixB))
+
+
+[[ 60  72  84]
+ [132 162 192]
+ [204 252 300]]
+```
+
+
+
 ## 行列式
 
 ## 矩阵转置

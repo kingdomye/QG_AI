@@ -174,4 +174,27 @@ print(int(det))
 
 ## 矩阵转置
 
+首先了解一下矩阵转置的定义
+
+```math
+设A为m\times n阶矩阵,第i行第j列的元素是a(i,j),即A=(a_{ij})_{m\times n},把m\times n矩阵A的行换成同序数的列得到一个n\times m矩阵，此矩阵叫做A的转置矩阵，记做A^{T}或A^{'}。 
+```
+
+利用numpy库可以相当直观的了解矩阵转置的定义
+
+```python
+arr = np.array([[1, 2, 3], [4, 5, 6]])
+arrT = arr.T
+print(arr)
+print(arrT)
+
+[[1 2 3]
+ [4 5 6]]
+[[1 4]
+ [2 5]
+ [3 6]]
+```
+
+
+
 ## 矩阵的逆

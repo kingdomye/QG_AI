@@ -60,6 +60,7 @@
     "Python.数字类型.executor": "Run",
     "Python.数据类型.executor": "Run",
     "Python.矩阵广播.executor": "Run",
+    "Python.矩阵转置.executor": "Run",
     "Python.行列式.executor": "Run",
     "Python.错误和异常捕获.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,7 +105,7 @@
       <workItem from="1737176841791" duration="391000" />
       <workItem from="1737177259602" duration="8000" />
       <workItem from="1737266101741" duration="5335000" />
-      <workItem from="1737871613556" duration="2306000" />
+      <workItem from="1737871613556" duration="2964000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />
@@ -134,6 +135,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QG_AI$maplambdafilter.coverage" NAME="map、lambda、filter函数 覆盖结果" MODIFIED="1737174730104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
-    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="行列式 覆盖结果" MODIFIED="1737887223027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/numpy代码示例" />
+    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="矩阵转置 覆盖结果" MODIFIED="1737888390700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/numpy代码示例" />
   </component>
 </project>

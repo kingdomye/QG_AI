@@ -12,6 +12,10 @@
 - [x] 错误和异常捕获
 - [x] map、lambda、filter函数学习
 - [x] python面向对象
-- [ ] 线性代数基础与numpy
+- [x] 线性代数基础与numpy
 - [x] python数据结构
 - [x] c++数据结构
+- [x] numpy、pandas、matplotlib库的简单运用
+- [ ] 泰坦尼克号数据集可视化
+- [ ] 多元微分学
+- [ ] 机器学习概念

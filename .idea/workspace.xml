@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/pandas代码示例/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pandas代码示例/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pandas代码示例/titanic_data/Titanic数据集_readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pandas代码示例/titanic_data/test.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +60,13 @@
     "Python.一维数组（向量）.executor": "Run",
     "Python.向量与矩阵.executor": "Run",
     "Python.对象.executor": "Run",
+    "Python.扇形图.executor": "Run",
     "Python.推导式.executor": "Run",
     "Python.散点图.executor": "Run",
     "Python.数字类型.executor": "Run",
     "Python.数据类型.executor": "Run",
+    "Python.曲线图.executor": "Run",
+    "Python.条形图.executor": "Run",
     "Python.矩阵广播.executor": "Run",
     "Python.矩阵求逆.executor": "Run",
     "Python.矩阵转置.executor": "Run",
@@ -76,7 +81,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "PyScientificConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,7 +114,9 @@
       <workItem from="1737176841791" duration="391000" />
       <workItem from="1737177259602" duration="8000" />
       <workItem from="1737266101741" duration="5335000" />
-      <workItem from="1737871613556" duration="5280000" />
+      <workItem from="1737871613556" duration="7327000" />
+      <workItem from="1737892774864" duration="160000" />
+      <workItem from="1737892951770" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />
@@ -138,8 +145,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="2025/1/17" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/QG_AI$main.coverage" NAME="main 覆盖结果" MODIFIED="1737890349346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/pandas代码示例" />
+    <SUITE FILE_PATH="coverage/QG_AI$main.coverage" NAME="main 覆盖结果" MODIFIED="1737893378809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/泰坦尼克数据集可视化分析" />
     <SUITE FILE_PATH="coverage/QG_AI$maplambdafilter.coverage" NAME="map、lambda、filter函数 覆盖结果" MODIFIED="1737174730104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
-    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="散点图 覆盖结果" MODIFIED="1737890685502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/matplotlib代码示例" />
+    <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="扇形图 覆盖结果" MODIFIED="1737890919414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/matplotlib代码示例" />
   </component>
 </project>

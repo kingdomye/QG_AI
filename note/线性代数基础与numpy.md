@@ -142,14 +142,14 @@ print(a + b)
 ## 行列式
 
 简单介绍一下行列式的定义即可：
-$$
+```math
 设D=\left|\begin{array}{cccc}
 a_{11} & a_{12} & \cdots & a_{1 n} \\
 a_{21} & a_{22} & \cdots & a_{2 n} \\
 \cdots & \cdots & \cdots & \cdots \\
 a_{n 1} & a_{n 2} & \cdots & a_{n n}
-\end{array}\right|\text { 是由排成 } n \text { 阶方阵形式的 } n^{2} \text { 个数 } \mathrm{a}_{\mathrm{ij}}(\mathrm{i}, \mathrm{j}=1,2, \ldots, \mathrm{n}) \text { 确定的一个数，其值为 } n!\text { 项之和 }D=\sum (-1)^{k}a_{1k_{1}}a_{2k_{2}}...a_{nk_{n}} 
-$$
+\end{array}\right|\text { 是由排成 } n \text { 阶方阵形式的 } n^{2} \text { 个数 } \mathrm{a}_{\mathrm{ij}}(\mathrm{i}, \mathrm{j}=1,2, \ldots, \mathrm{n}) \text { 确定的一个数，其值为 } n!\text { 项之和 }D=\sum (-1)^{k}a_{1k_{1}}a_{2k_{2}}...a_{nk_{n}}
+```
 
 
 ## 矩阵转置

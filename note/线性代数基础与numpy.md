@@ -151,6 +151,20 @@ a_{n 1} & a_{n 2} & \cdots & a_{n n}
 \end{array}\right|\text { 是由排成 } n \text { 阶方阵形式的 } n^{2} \text { 个数 } \mathrm{a}_{\mathrm{ij}}(\mathrm{i}, \mathrm{j}=1,2, \ldots, \mathrm{n}) \text { 确定的一个数，其值为 } n!\text { 项之和 }D=\sum (-1)^{k}a_{1k_{1}}a_{2k_{2}}...a_{nk_{n}}
 ```
 
+那么借助numpy库，我们可以不用记忆复杂的计算公式，同样也可以相当轻松的获得行列式的值
+
+```python
+n_array = np.array([[50, 29], [30, 44]])
+print(n_array)
+det = np.linalg.det(n_array)
+print(int(det))
+
+[[50 29]
+ [30 44]]
+1330
+```
+
+
 
 ## 矩阵转置
 

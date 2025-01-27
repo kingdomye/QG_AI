@@ -2,11 +2,7 @@
 
 部分代码没有完全参考训练内容文档，而是直接结合实际应用编写代码
 
-个人学习笔记同步知乎主页
-
-[ricckker的知乎主页]:https://www.zhihu.com/people/c-59-82-42
-
-
+个人学习笔记同步知乎主页[ricckker的知乎主页](https://www.zhihu.com/people/c-59-82-42)
 
 ## 学习进度
 

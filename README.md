@@ -21,7 +21,7 @@
 - [x] [泰坦尼克号数据集可视化](https://github.com/kingdomye/QG_AI/tree/master/code/泰坦尼克数据集可视化分析)
 - [x] [多元微分学](https://github.com/kingdomye/QG_AI/blob/master/note/多元微分学.md)
 - [x] [机器学习概念](https://github.com/kingdomye/QG_AI/blob/master/note/机器学习基本概念.md)
-- [ ] [多元线性回归](https://github.com/kingdomye/QG_AI/blob/master/note/多元线性回归.md)
+- [x] [多元线性回归](https://github.com/kingdomye/QG_AI/blob/master/note/多元线性回归.md)
 - [ ] K-means算法
 
 ## 其他

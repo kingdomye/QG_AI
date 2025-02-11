@@ -26,4 +26,5 @@
 
 ## 其他
 
-- [ ] 
+- [x] [相当精彩的手搓神经网络](https://github.com/kingdomye/QG_AI/tree/master/code/py手搓神经网络)
+- [x] [pytorch学习](https://github.com/kingdomye/QG_AI/tree/master/code/pytorch学习)

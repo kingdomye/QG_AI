@@ -23,3 +23,7 @@
 - [x] [机器学习概念](https://github.com/kingdomye/QG_AI/blob/master/note/机器学习基本概念.md)
 - [ ] [多元线性回归](https://github.com/kingdomye/QG_AI/blob/master/note/多元线性回归.md)
 - [ ] K-means算法
+
+## 其他
+
+- [ ] 

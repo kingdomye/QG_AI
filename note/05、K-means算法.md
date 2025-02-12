@@ -18,4 +18,4 @@
 
 
 
-关于该算法更详细的描述可以参见具体代码及编写分析。
+关于该算法更详细的描述可以参见具体代码及编写分析-->[K-means类封装](https://github.com/kingdomye/QG_AI/blob/master/note/07、K-means类封装.md)。

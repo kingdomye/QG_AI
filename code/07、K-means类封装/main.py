@@ -10,10 +10,10 @@ def calculate_distance(x, y):
 
 
 class KMeans:
-    def __init__(self, n_clusters=3):
+    def __init__(self, n_clusters=3, max_iter=100):
         self.data = None
         self.n_clusters = n_clusters
-        self.max_iter = None
+        self.max_iter = max_iter
         self.X = None
         self.Y = None
 
@@ -27,17 +27,31 @@ class KMeans:
         new_clusters = np.argmin(distances, axis=1)
         return new_clusters
 
+    def update_clusters(self, new_clusters):
+        new_center = []
+        for i in range(self.n_clusters):
+            sum = np.zeros(self.X.shape[1])
+            cnt = 0
+            for j in range(self.X.shape[0]):
+                if new_clusters[j] == i:
+                    cnt += 1
+                    sum += self.X[j]
+            mean = sum / cnt
+            new_center.append(mean)
+        new_center = np.array(new_center)
+        return new_center
+
     def classify(self):
         clusters_center = np.array(random.sample(self.X.tolist(), self.n_clusters))
-        new_clusters = self.get_clusters(clusters_center)
-        print(new_clusters)
+        print(clusters_center)
 
-    def test(self):
-        print(self.X[:, np.newaxis])
+        for _ in range(self.max_iter):
+            new_clusters = self.get_clusters(clusters_center)
+            clusters_center = self.update_clusters(new_clusters)
+            print(clusters_center)
 
 
 if __name__ == '__main__':
     kmeans = KMeans()
     kmeans.read_data()
-    # kmeans.test()
     kmeans.classify()

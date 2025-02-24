@@ -43,15 +43,20 @@ class KMeans:
 
     def classify(self):
         clusters_center = np.array(random.sample(self.X.tolist(), self.n_clusters))
-        print(clusters_center)
-
         for _ in range(self.max_iter):
             new_clusters = self.get_clusters(clusters_center)
             clusters_center = self.update_clusters(new_clusters)
-            print(clusters_center)
+
+        return clusters_center
+
+    def evaluate(self):
+        clusters_center = self.classify()
+        classify_distance = self.get_clusters(clusters_center)
+        print(classify_distance)
 
 
 if __name__ == '__main__':
     kmeans = KMeans()
     kmeans.read_data()
     kmeans.classify()
+    kmeans.evaluate()

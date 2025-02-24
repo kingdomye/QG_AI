@@ -7,6 +7,7 @@
     <list default="true" id="62f73090-3f79-4b96-9cdb-1bcfdef1b206" name="更改" comment="2025/1/17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/07、K-means类封装/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/07、K-means类封装/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/07、K-means类封装/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/07、K-means类封装/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +123,7 @@
       <workItem from="1739341880301" duration="27000" />
       <workItem from="1739341917971" duration="3707000" />
       <workItem from="1739540274177" duration="2887000" />
-      <workItem from="1740353435247" duration="2328000" />
+      <workItem from="1740353435247" duration="5356000" />
     </task>
     <task id="LOCAL-00001" summary="2025/1/17">
       <option name="closed" value="true" />
@@ -151,8 +152,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="2025/1/17" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/QG_AI$test.coverage" NAME="test 覆盖结果" MODIFIED="1739540574320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/06、多元线性回归类封装" />
-    <SUITE FILE_PATH="coverage/QG_AI$main.coverage" NAME="main 覆盖结果" MODIFIED="1740355658393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/07、K-means类封装" />
+    <SUITE FILE_PATH="coverage/QG_AI$test.coverage" NAME="test 覆盖结果" MODIFIED="1740358086271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/07、K-means类封装" />
+    <SUITE FILE_PATH="coverage/QG_AI$main.coverage" NAME="main 覆盖结果" MODIFIED="1740360490518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/07、K-means类封装" />
     <SUITE FILE_PATH="coverage/QG_AI$maplambdafilter.coverage" NAME="map、lambda、filter函数 覆盖结果" MODIFIED="1737174730104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/py基础语法" />
     <SUITE FILE_PATH="coverage/QG_AI$.coverage" NAME="扇形图 覆盖结果" MODIFIED="1737890919414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/matplotlib代码示例" />
   </component>

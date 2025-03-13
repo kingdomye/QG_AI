@@ -52,5 +52,5 @@ if __name__ == '__main__':
     linear_regression = LinearRegression()
     linear_regression.read_data()
     linear_regression.divide_dataset()
-    linear_regression.standardize()
+    linear_regression.normalize()
     linear_regression.solution_two()
